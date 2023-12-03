@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Workspaces\DotNet\WpfStudy\Com.Gitusme.IO.Ports.SerialPort\Release\Com.Gitusme.IO.Ports.SerialPort.runtimeconfig.json</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Workspaces\DotNet\WpfStudy\Com.Gitusme.IO.Ports.SerialPort\Release\Com.Gitusme.IO.Ports.SerialPort.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
