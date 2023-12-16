@@ -1,5 +1,5 @@
 /*********************************************************
- * Copyright (c) 2019-2023 gitusme, All rights reserved.
+ * Copyright (c) 2019-2024 gitusme, All rights reserved.
  *********************************************************/
 
 #include "NativeSerialPort.h"
