@@ -1,1 +1,5 @@
+/.vs
 /Com.Gitusme.IO.Ports.SerialPort/.nuget
+/Com.Gitusme.IO.Ports.SerialPort/.vs
+/Com.Gitusme.IO.Ports.SerialPort/Debug
+/Com.Gitusme.IO.Ports.SerialPort/Release
