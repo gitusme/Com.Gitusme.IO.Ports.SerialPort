@@ -1,6 +1,0 @@
-D:\Workspaces\DotNet\WpfStudy\Com.Gitusme.IO.Ports.SerialPort\Release\Com.Gitusme.IO.Ports.SerialPort.vcxproj.AssemblyReference.cache
-D:\Workspaces\DotNet\WpfStudy\Com.Gitusme.IO.Ports.SerialPort\Release\Ijwhost.dll
-D:\Workspaces\DotNet\WpfStudy\Com.Gitusme.IO.Ports.SerialPort\Release\Com.Gitusme.IO.Ports.SerialPort.dll
-D:\Workspaces\DotNet\WpfStudy\Com.Gitusme.IO.Ports.SerialPort\Release\Com.Gitusme.IO.Ports.SerialPort.deps.json
-D:\Workspaces\DotNet\WpfStudy\Com.Gitusme.IO.Ports.SerialPort\Release\Com.Gitusme.IO.Ports.SerialPort.genruntimeconfig.cache
-D:\Workspaces\DotNet\WpfStudy\Com.Gitusme.IO.Ports.SerialPort\Release\Com.Gitusme.IO.Ports.SerialPort.runtimeconfig.json

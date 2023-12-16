@@ -1,6 +1,0 @@
-﻿  NativeSerialPort.cpp
-  SerialPort.cpp
-  .NETCoreApp,Version=v3.1.AssemblyAttributes.cpp
-  正在生成代码...
-  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
-  Com.Gitusme.IO.Ports.SerialPort.vcxproj -> D:\Workspaces\DotNet\WpfStudy\Com.Gitusme.IO.Ports.SerialPort\Release\Com.Gitusme.IO.Ports.SerialPort.dll
